@@ -13,13 +13,13 @@ I don't just write code; I enjoy the entire technical ecosystem. Whether it's le
 ---
 
 ### Tech Stack
-Core: Python, JavaScript (Node.js)  
+**Core:** Python, JavaScript (Node.js)  
 **Mobile:** Flutter  
 **Tools:** Git, Linux, VS Code  
 
 ---
 
-### 📬 Connect with me
+### Connect with me
 I am currently open to **Software Development** and **IT Support** roles.
 
 <a href="https://www.linkedin.com/in/john-pert-millena-97758b179" target="_blank">
