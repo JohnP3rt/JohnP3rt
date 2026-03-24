@@ -6,14 +6,14 @@ I am a graduating student based in the Philippines with a focus on building func
 I don't just write code; I enjoy the entire technical ecosystem. Whether it's leading a capstone team, configuring a network, or troubleshooting hardware, I pride myself on being the person who can jump into any role to get the job done.
 
 **What I'm up to:**
-* 🎓 Finishing my degree and leading development on my Capstone project.
-* ☁️ Upskilling in **Web Development** and **Computer Networking**.
-* 🎧 Coding fuel: High-BPM rave and party playlists.
+* Finishing my degree and leading development on my Capstone project.
+* Upskilling in **Web Development** and **Computer Networking**.
+* Coding fuel: High-BPM rave and party playlists.
 
 ---
 
-### 🔧 Tech Stack
-**Core:** Python, JavaScript (Node.js)  
+### Tech Stack
+Core: Python, JavaScript (Node.js)  
 **Mobile:** Flutter  
 **Tools:** Git, Linux, VS Code  
 
