@@ -1,5 +1,5 @@
 # John Pert
-### Software Developer | IT Support
+### Software Developer | Networking | Cybersecurity
 
 I am a graduating student based in the Philippines with a focus on building functional web and mobile applications and network problems. 
 
